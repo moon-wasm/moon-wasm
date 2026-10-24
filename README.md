@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Des jeux dans le navigateur — portages Web, WebAssembly, WebGL et expérimentations multijoueurs" width="100%">
+  <img src="assets/banner-moon.png" alt="MOON — développement et portage de jeux, univers lunaire et Visual Studio Code" width="100%">
 </p>
 
 <p align="center">
-  <strong>Je porte des jeux dans le navigateur et j’expérimente avec les technologies du Web.</strong><br>
+  <strong>Moi, c’est Moon.</strong><br>
+  Je porte des jeux dans le navigateur et j’expérimente avec les technologies du Web.<br>
   Du moteur de jeu à une page Web : rendu, sons, contrôles et multijoueur.
 </p>
 
