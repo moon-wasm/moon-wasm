@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Moi, c’est Moon.</strong><br>
+  <strong>Moi, c’est ☾ Moon ☽.</strong><br>
   Je porte des jeux dans le navigateur et j’expérimente avec les technologies du Web.<br>
   Du moteur de jeu à une page Web : rendu, sons, contrôles et multijoueur.
 </p>
@@ -18,9 +18,9 @@
 
 | Projet | Dans l’atelier |
 | :--- | :--- |
-| **[Fart Together · WebGL](https://github.com/a01083831422-gif/Fart-game-demo-wasm)** | Portage Unity vers le navigateur, adaptation des shaders, restauration de l’audio et salons entre amis avec WebRTC. |
-| **[Minecraft 26.3 · Web](https://github.com/a01083831422-gif/minecraft-26.3-web)** | Expérimentations autour de Minecraft, de WebAssembly et du chargement de modules dans le navigateur. |
-| **[Minecraft Classic · WASM](https://github.com/a01083831422-gif/Minecraft-Classic-WASM)** | Exploration de Minecraft Classic, de son code Java et d’une adaptation pour le Web. |
+| **[Fart Together · WebGL](https://github.com/moon-wasm/Fart-game-demo-wasm)** | Portage Unity vers le navigateur, adaptation des shaders, restauration de l’audio et salons entre amis avec WebRTC. |
+| **[Minecraft 26.3 · Web](https://github.com/moon-wasm/minecraft-26.3-web)** | Expérimentations autour de Minecraft, de WebAssembly et du chargement de modules dans le navigateur. |
+| **[Minecraft Classic · WASM](https://github.com/moon-wasm/Minecraft-Classic-WASM)** | Exploration de Minecraft Classic, de son code Java et d’une adaptation pour le Web. |
 
 ### 🛠️ Ce que j’explore
 
